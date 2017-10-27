@@ -1,0 +1,5 @@
+1. What is salary mode.
+2. When salary will be provide.
+3. It is one month aggreement if yes then what is last date of aggreement.
+4. If i am unable to work for the prescribed 8hours/day then How to calculate hours weekly, monthly or daily bases.
+5. 
